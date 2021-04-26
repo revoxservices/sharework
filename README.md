@@ -10,7 +10,7 @@ Este repositorio contiene actualmente el bakckend de un aplicativo web que tiene
  ***Laravel:*** es uno de los frameworks que permite el desarrollo de aplicaciones web totalmente personalizadas. Laravel trabaja con una arquitectura de carpetas avan-zada, de modo que promueve la separación de los archivos con un orden correcto y definido, que guiará a todos los integrantes del equipo de trabajo y será un estándar a lo largo de los distintos proyectos . Este framework nos brinda un sistema de noti-ficaciones a usuarios, mediante email, base de datos y otros canales; también, nos permite un sistema de autenticación, con todo lo necesario como recordatorios de clave, confirmación de cuentas, recordar un usuario logueado, etc.
 
 ### Aprende mas ⌨️
- para el uso del codigo hay que tener en cuenta los sigguientes link para una mejor comprension
+ para el uso del codigo hay que tener en cuenta los siguientes links para una mejor comprensión
  ## Important Links
 
  [Server Requirements](https://support.smartersvision.com/help-center/articles/3/4/3/introduction).
